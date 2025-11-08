@@ -56,49 +56,10 @@ vi)Image Cropping
 
 ```
 ## Output:
-### i)Image Translation
-<br>
-<br>
-<br>
-<br>
-
-### ii) Image Scaling
-<br>
-<br>
-<br>
-<br>
-
-
-### iii)Image shearing
-<br>
-<br>
-<br>
-<br>
-
-
-### iv)Image Reflection
-<br>
-<br>
-<br>
-<br>
 
 
 
-### v)Image Rotation
-<br>
-<br>
-<br>
-<br>
-
-
-
-### vi)Image Cropping
-<br>
-<br>
-<br>
-<br>
-
-
+<img width="1190" height="989" alt="download" src="https://github.com/user-attachments/assets/d9152316-c051-4b2c-9df4-e7ddd0226c27" />
 
 
 ## Result: 
