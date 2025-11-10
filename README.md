@@ -37,9 +37,9 @@ Anaconda - Python 3.7
 
 ## Program:
 ```python
-## NAME : AANKARSH J
-## REG.NO: 212223233001
-# Transformations on Image
+## EX-4 : IMAGE-TRANSFORMATIONS ##
+## NAME : AANKARSH J ##
+## REG.NO: 212223233001 ##
 
 import cv2
 import numpy as np
